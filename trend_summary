@@ -1,0 +1,13 @@
+* Written description of three observable trends based on the data.
+
+On Latitude vs. Temperature
+1. Based on the arc of the data points, Latitudes between -20,40 have the highest max temperatures. Specifically, these cities around the equator see temperatures above 70 degrees Fahrenheit and as high as 90+ degrees.
+
+On Latitude vs. Humidity
+2. There appears to be a correlation between latitudes of -20 or higher and humidity above 80%. In particular, there is a correlation between latitudes in the range 20,60 and humidity above 60%. 
+
+On Latitude vs. Cloudiness
+3. Based on the sparsity of the points, there does not appear to be a trend between city latitude and the respective cloudiness.
+
+On Latitude vs. Wind Speed
+4. Wind speeds across the board tend to be between 0,10 regardless of Latitude. However, higher positive latitudes do experience a broader range of wind speeds than their negative counterparts.
